@@ -1,0 +1,10 @@
+{
+    "name": "com.unity.AvatarCustomizer",
+    "version": "1.0.0",
+    "displayName": "AvatarCustomizer",
+    "description": "This is AvatarCustomizer",
+    "unity": "2021.2",
+    "unityRelease": "11f1",
+    "hideInEditor": false,
+    "type": "sample"
+}
